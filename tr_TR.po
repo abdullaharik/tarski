@@ -1,0 +1,952 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tarski 2.2\n"
+"Report-Msgid-Bugs-To: Benedict Eastaugh <bugs@tarskitheme.com>\n"
+"POT-Creation-Date: 2012-02-12 15:44:21+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Abdullah Arık <mail@abdullaharik.com>\n"
+"Language-Team: Abdullah ARIK <mail@abdullaharik.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: 404.php:8
+msgid "Error 404"
+msgstr "Hata 404"
+
+#: app/api/deprecated.php:38 library/helpers/template_helper.php:72
+msgid "Error %s"
+msgstr "Hata %s"
+
+#: app/api/deprecated.php:42 library/helpers/template_helper.php:76
+msgid "Search results for %s"
+msgstr "%s için arama sonuçları"
+
+#: app/templates/credits.php:2
+msgid ""
+"Powered by <a href=\"http://wordpress.org/\">WordPress</a> and <a href="
+"\"http://tarskitheme.com/\">Tarski</a>"
+msgstr ""
+"<a href=\"http://wordpress.org/\">WordPress</a> &amp; <a href=\"http://"
+"tarskitheme.com/\">Tarski</a> &amp; <a href=\"http://satranc.biz/\">Satranç</"
+"a>"
+
+#: app/templates/credits.php:6
+msgid " | Hosted by %s"
+msgstr " | Hosted by %s"
+
+#: app/templates/feed_link.php:2
+msgid "Subscribe to feed"
+msgstr "Rss Üyeliği"
+
+#: app/templates/loop.php:7 app/templates/loop.php:29
+msgid "Read the rest of this entry &raquo;"
+msgstr "Bu iletinin tamamını göster &raquo;"
+
+#: app/templates/loop.php:10 library/classes/comment_walker.php:86
+#: library/classes/comment_walker.php:97
+#: library/helpers/content_helper.php:346
+msgid "edit"
+msgstr "düzenle"
+
+#: app/templates/loop.php:19
+msgid "Permanent link to %s"
+msgstr "%s için kalıcı bağlantı "
+
+#: app/templates/no_posts.php:4
+msgid "No posts found"
+msgstr "İleti bulunamadı"
+
+#: app/templates/no_posts.php:9
+msgid ""
+"Looks like there&#8127;s nothing here, sorry. You might want to try the "
+"search function. Alternatively, return to the %s."
+msgstr ""
+"Baktığınız sayfa burada değil. Arama kutusunu kullanabilirsiniz veya "
+"geldiğiniz sayfaya geri dönebilirsiniz %s"
+
+#: app/templates/no_posts.php:10 library/helpers/content_helper.php:369
+#: search.php:29
+msgid "front page"
+msgstr "ana sayfa"
+
+#: app/templates/options/alternate_style.php:7
+msgid "Default style"
+msgstr "Varsayılan Sitil"
+
+#: app/templates/options/alternate_style.php:19
+msgid ""
+"Tarski allows you to select an alternate style that modifies the default "
+"one. Choose from the list above."
+msgstr ""
+"Tarski varsayılan sitili değiştiren alternatifler seçmenize de olanak "
+"sağlamakta. Aşağıdaki listeden seçebilirsiniz."
+
+#: app/templates/options/alternate_style.php:21
+msgid ""
+"Tarski allows you to select an %1$s that modifies the default one. Choose "
+"from the list above, or upload your own to %2$s."
+msgstr ""
+"Tarski %1$s seçmenize ve varsayılanı değiştirmenize olanak veriyor. Listeden "
+"seçin veya özel bir tane %2$s yükleyin."
+
+#: app/templates/options/alternate_style.php:21
+msgid "alternate style"
+msgstr "alternatif sitil"
+
+#: app/templates/options/alternate_style.php:25
+msgid "No alternate stylesheets appear to be present."
+msgstr "Kullanılabilecek alternatif sitil dosyası yok."
+
+#: app/templates/options/messages.php:3
+msgid "Tarski options have been restored. %s"
+msgstr "Tarski için varsayılan ayarlar geri yüklendi. %s"
+
+#: app/templates/options/messages.php:4 app/templates/options/messages.php:9
+msgid "View site &rsaquo;"
+msgstr "Siteyi ziyaret edin  &raquo;"
+
+#: app/templates/options/messages.php:8
+msgid "Tarski options have been updated. %s"
+msgstr "Tarski ayarları güncellendi. %s"
+
+#: app/templates/options/missing_files.php:1
+msgid ""
+"This may be because you have removed them, or because those files aren&#8217;"
+"t readable by WordPress."
+msgstr ""
+"Bunu sebebi bu dosyaları silmiş olmanız veya WordPress'in bu dosyaları "
+"okuyamıyor olması olabilir."
+
+#: app/templates/options/missing_files.php:2
+msgid ""
+"If you have problems making the files readable, try the WordPress Codex "
+"documentation on %s."
+msgstr ""
+"Dosyaları okunabilir olarak ayarlamakta sorun yaşıyorsanız, WordPress Codex "
+"belgelerini inceleyebilirsiniz %s."
+
+#: app/templates/options/missing_files.php:2
+msgid "changing file permissions"
+msgstr "dosya erişim hakları değiştiriliyor"
+
+#: app/templates/options/missing_files.php:3
+msgid ""
+"If you deleted the files by accident, just download a new copy from the %s "
+"and re-upload them to your website."
+msgstr ""
+"Dosyaları kazayla silerseniz,sadece %s adresinden yeniden indirin ve ekrar "
+"websitenize yükleyin."
+
+#: app/templates/options/missing_files.php:3
+msgid "Tarski website"
+msgstr "Tarski websitesi"
+
+#: app/templates/options/reset_options.php:2
+msgid "Reset Tarski&#8217;s options to their default values"
+msgstr "Tarski için VARSAYILAN AYARLARI geri yükle"
+
+#: app/templates/options/reset_options.php:7
+msgid ""
+"If you change your mind, you&#8217;ll have three hours to restore your "
+"options before they&#8217;re removed for good."
+msgstr ""
+"Eğer fikrinizi değiştirirseniz, önceki ayarları geri yüklemek için Üç "
+"saatiniz var. Daha sonra ayar bilgileri tamamen silinir."
+
+#: app/templates/options/restore_options.php:6
+msgid "You have deleted your Tarski options."
+msgstr "Tarski ayarlarını sildiniz."
+
+#: app/templates/options/restore_options.php:6
+msgid "Restore Tarski Options &raquo;"
+msgstr "Tarski için varsayılan ayarları geri yükle &raquo;"
+
+#: app/templates/options/sidebar_options.php:1
+msgid ""
+"The sidebar for posts and pages can be the same as that for index pages, or "
+"use its own set of widgets."
+msgstr ""
+"Tarski temasında ana sayfada kullanılan bileşenler alt sayfalarda ve "
+"yazılarda kullanılanlardan ayrı olarak ayarlanabilir."
+
+#: app/templates/options/sidebar_options.php:6
+msgid "Same content as main sidebar?"
+msgstr "Bileşen ayarları bütün sayfalarda aynı olsun mu?"
+
+#: app/templates/options_page.php:10 library/helpers/admin_helper.php:201
+#: library/helpers/admin_helper.php:202
+msgid "Tarski Options"
+msgstr "Tarski Ayarları"
+
+#: app/templates/options_page.php:13 app/templates/options_page.php:30
+msgid "Save Options"
+msgstr "Ayarları Kaydet"
+
+#: app/templates/options_page.php:17
+msgid "Tarski documentation"
+msgstr "Tarski dökümantasyonu"
+
+#: app/templates/options_page.php:18
+msgid "Credits &amp; Thanks"
+msgstr "&amp;"
+
+#: app/templates/options_page.php:19
+msgid "Forum"
+msgstr "Forum"
+
+#: app/templates/options_page.php:28
+msgid "Alternate Style"
+msgstr "Alternatif Sitil"
+
+#: app/templates/options_page.php:29
+msgid "Miscellaneous Options"
+msgstr "Çeşitli Seçenekler"
+
+#: app/templates/options_page.php:34
+msgid "Sidebar Options"
+msgstr "Bileşen Ayarları"
+
+#: app/templates/options_page.php:40
+msgid "Reset Options"
+msgstr "Ayarları Sıfırla"
+
+#: archive.php:13
+msgid "You are currently browsing the archive for the %s category."
+msgstr "%s kategorisi için arşiv sayfasını görüntülüyorsunuz."
+
+#: archive.php:22
+msgid "You are currently browsing articles tagged %s."
+msgstr "%s etiketi için arşiv sayfasını görüntülüyorsunuz."
+
+#: archive.php:26 library/helpers/author_helper.php:32
+msgid "Articles by %s"
+msgstr "%s"
+
+#: archive.php:33
+msgid "You are currently browsing %s&#8217;s articles."
+msgstr "%s için arşiv sayfasını görüntülüyorsunuz."
+
+#: archive.php:42
+msgid "You are currently browsing the daily archive for %s."
+msgstr "%s için arşiv sayfasını görüntülüyorsunuz."
+
+#: archive.php:46 archive.php:50
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:50
+msgid "You are currently browsing the monthly archive for %s."
+msgstr "%s için arşiv sayfasını görüntülüyorsunuz."
+
+#: archive.php:54 archive.php:58
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:58
+msgid "You are currently browsing the yearly archive for %s."
+msgstr "%s için arşiv sayfasını görüntülüyorsunuz."
+
+#: archives.php:14 links.php:15 tags.php:15
+msgid "edit page"
+msgstr "sayfayı düzenle"
+
+#: archives.php:25
+msgid "Monthly Archives"
+msgstr "Aylık Arşiv"
+
+#: archives.php:36
+msgid "Category Archives"
+msgstr "Kategori Arşivi"
+
+#: comments.php:12 library/helpers/content_helper.php:158
+#: library/helpers/content_helper.php:213
+msgid "No comments"
+msgstr "Yorum yapılmamış"
+
+#: comments.php:12 library/helpers/content_helper.php:160
+#: library/helpers/content_helper.php:214
+msgid "1 comment"
+msgstr "1 yorum"
+
+#: comments.php:12 library/helpers/content_helper.php:156
+#: library/helpers/content_helper.php:215
+msgid "% comments"
+msgstr "% yorum"
+
+#: comments.php:14
+msgid "Comments feed for this article"
+msgstr "Bu iletinin yorumları için RSS"
+
+#: comments.php:18
+msgid "Trackback link: %s"
+msgstr "%s için geri izleme bağlantısı"
+
+#: comments.php:30
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Önceki"
+
+#: comments.php:31
+msgid "Next &rsaquo;"
+msgstr "Sonraki &rsaquo;"
+
+#: comments.php:39
+msgid "Comments are now closed."
+msgstr "Yorum özelliği şu anda kapalı."
+
+#: functions.php:104
+msgid "Main sidebar"
+msgstr "Üst Yan Menü"
+
+#: functions.php:113
+msgid "Post and page sidebar"
+msgstr "İleti ve Sayfa Yan Menüsü"
+
+#: functions.php:122
+msgid "Footer main widgets"
+msgstr "Alt Ana Menü"
+
+#: functions.php:131
+msgid "Footer sidebar widgets"
+msgstr "Alt Yan Menü"
+
+#: functions.php:149
+msgid "Tarski navbar"
+msgstr "Tarski Menü Bar"
+
+#: library/classes/comment_walker.php:80
+msgid "%1$s from %2$s on %3$s"
+msgstr "%2$s %3$s için %1$s tarafından"
+
+#: library/classes/comment_walker.php:81
+msgctxt "noun"
+msgid "Comment"
+msgstr "Yorum"
+
+#: library/classes/comment_walker.php:82
+msgid "Trackback"
+msgstr "Geri İzleme"
+
+#: library/classes/comment_walker.php:83
+msgid "Pingback"
+msgstr "Geri izleme"
+
+#: library/classes/comment_walker.php:89
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay için bekletiliyor."
+
+#: library/classes/comment_walker.php:94
+msgid "%1$s on %2$s"
+msgstr "%2$s yazısı için %1$s tarafından yapılan yorum"
+
+#: library/classes/options.php:79 library/helpers/template_helper.php:436
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: library/helpers/admin_helper.php:23 library/helpers/admin_helper.php:49
+#: library/helpers/admin_helper.php:76
+msgid "You are not authorised to perform this operation."
+msgstr "Bu işlemi yapmak için yetkiniz yok."
+
+#: library/helpers/admin_helper.php:313
+msgid "Display site title"
+msgstr "Site başlığını göster"
+
+#: library/helpers/admin_helper.php:314
+msgid "Display site tagline"
+msgstr "Site sloganını göster"
+
+#: library/helpers/admin_helper.php:315
+msgid "Show post categories"
+msgstr "İletide kategorileri göster"
+
+#: library/helpers/admin_helper.php:316
+msgid "Show tags everywhere"
+msgstr "Etiketleri her yerde göster"
+
+#: library/helpers/admin_helper.php:317
+msgid "Centrally align the theme"
+msgstr "Temayı ortala"
+
+#: library/helpers/admin_helper.php:318
+msgid "Switch column order"
+msgstr "Sütun sıralamasını değiştir"
+
+#: library/helpers/admin_helper.php:319
+msgid "Reverse document title order"
+msgstr ""
+"Site Adı ve Site Sloganı&#8217;nın yerini değiştir (Site Adı&#8217;nı sonra "
+"göster)"
+
+#: library/helpers/author_helper.php:35
+msgid " by "
+msgstr " "
+
+#: library/helpers/comments_helper.php:21
+msgid "%1$s at %2$s"
+msgstr "%1$s @ %2$s"
+
+#: library/helpers/comments_helper.php:40
+msgid "Permalink to this comment"
+msgstr "Bu yorum için kalıcı bağlantı"
+
+#: library/helpers/comments_helper.php:82
+#: library/helpers/comments_helper.php:99
+msgid "%s&#8217;s avatar"
+msgstr "%s&#8217;s avatar"
+
+#: library/helpers/comments_helper.php:169
+msgid "You must be %s to post a comment."
+msgstr "Yorum yapabilmek için %s olmalısınız."
+
+#: library/helpers/comments_helper.php:171
+msgid "logged in"
+msgstr "giriş"
+
+#: library/helpers/comments_helper.php:173
+msgid "Your comment"
+msgstr "Yorumunuz"
+
+#: library/helpers/comments_helper.php:186
+msgid "Reply"
+msgstr "Cevapla"
+
+#: library/helpers/comments_helper.php:187
+msgid "Reply to %s"
+msgstr "Bu yoruma yanıt ver %s"
+
+#: library/helpers/content_helper.php:59
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: library/helpers/content_helper.php:63
+msgid "Next page"
+msgstr "Sonraki sayfa"
+
+#: library/helpers/content_helper.php:64
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: library/helpers/content_helper.php:93
+msgid "Previous results"
+msgstr "Önceki sonuçlar"
+
+#: library/helpers/content_helper.php:94
+msgid "More results"
+msgstr "Daha çok sonuç"
+
+#: library/helpers/content_helper.php:97
+msgid "Older entries"
+msgstr "Eski iletiler"
+
+#: library/helpers/content_helper.php:98
+msgid "Newer entries"
+msgstr "Yeni iletiler"
+
+#: library/helpers/content_helper.php:124
+msgid " in %s"
+msgstr " %s"
+
+#: library/helpers/content_helper.php:192
+#: library/helpers/content_helper.php:217
+msgid "Permalink"
+msgstr "Kalıcı bağlantı"
+
+#: library/helpers/content_helper.php:345
+msgid "Edit this post"
+msgstr "Bu iletiyi düzenle"
+
+#: library/helpers/content_helper.php:368
+msgid ""
+"The page you are looking for does not exist; it may have been moved, or "
+"removed altogether. You might want to try the search function or return to "
+"the %s."
+msgstr ""
+"Baktığınız sayfa bulunamadı; Taşınmış veya Silinmiş olabilir. Arama "
+"yapabilir veta %s sayfasına geri dönebilirsiniz."
+
+#: library/helpers/tag_helper.php:20 library/helpers/tag_helper.php:90
+msgid ", "
+msgstr ","
+
+#: library/helpers/tag_helper.php:23 library/helpers/tag_helper.php:60
+msgid "and"
+msgstr "ve"
+
+#: library/helpers/tag_helper.php:62
+msgid "or"
+msgstr "veya"
+
+#: library/helpers/tag_helper.php:112 tags.php:22
+msgid "Tags"
+msgstr "Etiketler"
+
+#: library/helpers/template_helper.php:291
+msgid "Header image"
+msgstr "Sayfa Başı Resmi"
+
+#: library/helpers/template_helper.php:298
+#: library/helpers/template_helper.php:327
+msgid "Return to main page"
+msgstr "Ana sayfaya geri dön"
+
+#: library/helpers/template_helper.php:435
+msgid "Return to front page"
+msgstr "Ana sayfaya geri dön"
+
+#: library/helpers/widgets.php:97
+msgid ""
+"The most recent articles, offset by the number of visible articles on the "
+"home page."
+msgstr ""
+"En güncel yazılar, ana sayfada gösterilecek ileti sayısını parametre olarak "
+"alır."
+
+#: library/helpers/widgets.php:98 library/helpers/widgets.php:122
+msgid "Recent Articles"
+msgstr "Son İletiler"
+
+#: library/helpers/widgets.php:144
+msgid "View this post"
+msgstr "Bu iletiyi görün"
+
+#: library/helpers/widgets.php:145
+msgid "%1$s in %2$s"
+msgstr "%1$s - %2$s"
+
+#: library/helpers/widgets.php:183
+msgid "Title:"
+msgstr "Başlık:"
+
+#: library/helpers/widgets.php:186
+msgid "Number of posts to display:"
+msgstr "Gösterilecek ileti sayısı:"
+
+#: library/helpers/widgets.php:188
+msgid "(at most 15)"
+msgstr "(en çok 15)"
+
+#: search.php:11
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#: search.php:14
+msgid "Your search for %s returned the following results."
+msgstr "%s için yaptığınız arama aşağıdaki sonuçları buldu."
+
+#: search.php:26
+msgid "No results"
+msgstr "Sonuç yok"
+
+#: search.php:29
+msgid "Your search for %1$s returned no results. Try returning to the %2$s."
+msgstr ""
+"%1$s için arama sonucu bulunamadı. %2$s&#8127;ya dönmeyi deneyebilirsiniz."
+
+#: searchform.php:1
+msgid "Search this site"
+msgstr "Bu sitede ara"
+
+#: searchform.php:6
+msgid "Search"
+msgstr "Ara"
+
+#. Theme Name of the plugin/theme
+msgid "Tarski"
+msgstr "Tarski"
+
+#. Theme URI of the plugin/theme
+msgid "http://tarskitheme.com/"
+msgstr "http://tarskitheme.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"An elegant, flexible theme with built-in display options and alternate "
+"styles. Tarski includes support for aside-style posts, comes with numerous "
+"default header images, and translations are available for over 20 different "
+"languages. It is extremely customisable, both by the usual WordPress "
+"mechanisms such as custom headers, backgrounds and menus, but also by its "
+"support for custom CSS files and an extensive, well-documented API that "
+"gives child theme and plugin authors a huge amount of control without "
+"needing to modify the theme's files, making upgrading to new versions simple."
+msgstr ""
+"An elegant, flexible theme with built-in display options and alternate "
+"styles. Tarski includes support for aside-style posts, comes with numerous "
+"default header images, and translations are available for over 20 different "
+"languages. It is extremely customisable, both by the usual WordPress "
+"mechanisms such as custom headers, backgrounds and menus, but also by its "
+"support for custom CSS files and an extensive, well-documented API that "
+"gives child theme and plugin authors a huge amount of control without "
+"needing to modify the theme's files, making upgrading to new versions simple."
+
+#. Author of the plugin/theme
+msgid "Benedict Eastaugh"
+msgstr "Benedict Eastaugh"
+
+#. Author URI of the plugin/theme
+msgid "http://extralogical.net"
+msgstr "http://extralogical.net"
+
+#. Tags of the plugin/theme
+msgid ""
+"white, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, "
+"custom-header, custom-background, custom-menu, editor-style, theme-options, "
+"threaded-comments, sticky-post, microformats, rtl-language-support, "
+"translation-ready"
+msgstr ""
+"white, two-columns, left-sidebar, right-sidebar, fixed-width, custom-colors, "
+"custom-header, custom-background, custom-menu, editor-style, theme-options, "
+"threaded-comments, sticky-post, microformats, rtl-language-support, "
+"translation-ready"
+
+#~ msgid "Disable asides"
+#~ msgstr "Kısa Yazı yok"
+
+#~ msgid ""
+#~ "This option will make Tarski display posts from the selected category in "
+#~ "the "
+#~ msgstr "Bu seçenek Tarski nin seçilen kategorideki iletileri "
+
+#~ msgid "Asides"
+#~ msgstr "Kısa Yazı"
+
+#~ msgid ""
+#~ " format. Asides are short posts, usually only a single paragraph, and "
+#~ "Tarski displays them in a condensed format without titles."
+#~ msgstr ""
+#~ "olarak göstermesini sağlar. \"Kısa Yazı\" adından da anlaşılabileceği "
+#~ "gibi, kısa genellikle bir paragraftan oluşan yazılardır. Tarski bu "
+#~ "kategorideki yazıları özet biçiminde başlıksız olarak gösterir."
+
+#~ msgid "No header images appear to be present."
+#~ msgstr "Kullanılabilecek sayfa üstü grafik yok."
+
+#~ msgid ""
+#~ "Choose a header image by clicking on it. The current image is the %s one."
+#~ msgstr ""
+#~ "Sayfa üstü grafiğini seçmek için üzerine tıklamanız yeterli, şu anda %s "
+#~ "resim kullanılmakta."
+
+#~ msgid "highlighted"
+#~ msgstr "seçili"
+
+#~ msgid "You can upload your own header images (.gif, .jpg or .png) to %s."
+#~ msgstr ""
+#~ "%s dizinine kendigrafiklerinizi yükleyebilirsiniz (.gif, .jpg veya .png)."
+
+#~ msgid ""
+#~ "Make sure that you upload a thumbnail file as well. If your image is "
+#~ "named %1$s, the corresponding thumbnail file should be named %2$s."
+#~ msgstr ""
+#~ "Ön izleme resmi yüklemeyi unutmadığınızdan emin olun. Eğer yüklediğiniz "
+#~ "grafiğin adı %1$s ise, ön izleme resminin adı %2$s olmalı."
+
+#~ msgid "example"
+#~ msgstr "ornek"
+
+#~ msgid "Add external links to the navbar"
+#~ msgstr "Menüye dış bağlantı ekle"
+
+#~ msgid "No external links"
+#~ msgstr "Dış bağlantı yok"
+
+#~ msgid ""
+#~ "You can add or edit links on the %s page. We recommend creating a link "
+#~ "category specifically for the links you want displayed in your navbar, "
+#~ "but you can use any category."
+#~ msgstr ""
+#~ "%s sayfasında link ekleyebilir veya mevcut linkleri düzenleyebilirsiniz. "
+#~ "Menüde göstermek istediğiniz linkler için yeni bir kategori oluşturmanızı "
+#~ "öneriyoruz, fakat bunu yapmasanız da istediğiniz kategoriyi "
+#~ "kullanabilirsiniz."
+
+#~ msgid "Manage Links"
+#~ msgstr "Bağlantılar"
+
+#~ msgid "Rename your &#8216;Home&#8217; link"
+#~ msgstr "&#8216;Ana Sayfa&#8217; bağlantısını yeniden adlandırın"
+
+#~ msgid "This link is not displayed when you have a static front page."
+#~ msgstr "Statik ana sayfa kullandığınızda bu link gösterilmez."
+
+#~ msgid "Tarski Updates"
+#~ msgstr "Tarski Güncellemeleri"
+
+#~ msgid "Update notification on (recommended)"
+#~ msgstr "Güncelleme bildirimi açık (önerilen)"
+
+#~ msgid "Update notification off"
+#~ msgstr "Güncelleme bildirimi kapalı"
+
+#~ msgid ""
+#~ "The version check could not be cached. To enable caching, follow the "
+#~ "tutorial on the %s page."
+#~ msgstr ""
+#~ "Versiyon güncellemesi Cache&#8127;e alınamadı. Cache işlemini "
+#~ "aktifleştirmek için, bu sayfadaki iletiyi inceleyebilirsiniz %s ."
+
+#~ msgid "update notifier"
+#~ msgstr "güncelleme hatırlatıcısı"
+
+#~ msgid "Update Notification"
+#~ msgstr "Güncelleme Uyarısı"
+
+#~ msgid ""
+#~ "Your server appears to lack the ability to access external websites. This "
+#~ "means that the update notifier will not work."
+#~ msgstr ""
+#~ "Sunucunuzun diğer sitelere bağlanma özelliği iptal edilmiş veya "
+#~ "yüklenmemiş. Bu sebeple güncelleme bilgilendiricisi çalışmayacak."
+
+#~ msgid ""
+#~ "You can read our %1$s on how to fix your server setup, but if you are "
+#~ "unable to change it we recommend subscribing to either the %2$s or the "
+#~ "%3$s in your feed reader, so that you can be alerted when new Tarski "
+#~ "versions become available."
+#~ msgstr ""
+#~ "Sunucunuzu ayarlamak için %1$s iletimizi okuyabilirsiniz, fakat sunucuyu "
+#~ "ayarlamanız mümkün değilse Tarski nin yeni versiyonlarından haberdar "
+#~ "olmak için %2$s veya %3$s RSS lerini takip edebilirsiniz."
+
+#~ msgid "documentation"
+#~ msgstr "belgelendirme"
+
+#~ msgid "Tarski version feed"
+#~ msgstr "Tarski versiyon RSS"
+
+#~ msgid "Tarski website feed"
+#~ msgstr "Tarski websitesi RSS"
+
+#~ msgid "Navigation Display"
+#~ msgstr "Menü Görünümü"
+
+#~ msgid "Navigation Options"
+#~ msgstr "Menü Özellikleri"
+
+#~ msgid "Asides Category"
+#~ msgstr "Kısa Yazı Kategorisi"
+
+#~ msgid "Header Images"
+#~ msgstr "Sayfa Üstü Grafikleri"
+
+#~ msgid "Click here to cancel your reply"
+#~ msgstr "Yanıtınızı iptal etmek için tıklayın"
+
+#~ msgid "Logged in as %1$s. %2$s"
+#~ msgstr "%s olarak giriş yapılmış. %2$s"
+
+#~ msgid "Log out?"
+#~ msgstr "Çıkış yap?"
+
+#~ msgid "Name %s"
+#~ msgstr "Ad ve Soyad %s"
+
+#~ msgid "Email %s"
+#~ msgstr "Eposta %s"
+
+#~ msgid "Website"
+#~ msgstr "Web Sitesi"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Yorumu Gönder"
+
+#~ msgid "Comment|noun"
+#~ msgstr "Yorum|isim"
+
+#~ msgid "View this page"
+#~ msgstr "Bu sayfayı göster"
+
+#~ msgid ""
+#~ "Update notification is disabled, so no attempt was made to access the "
+#~ "update server. Your installed version is %s."
+#~ msgstr "Güncelleme hatırlatıcısı kullanılmıyor. Yüklediğiniz versiyon %s."
+
+#~ msgid ""
+#~ "An error occurred while attempting to access the update server. Your "
+#~ "installed version is %s."
+#~ msgstr ""
+#~ "Güncelleme sunucusuyla bağlantı kurulamadı. Yüklediğiniz versiyon %s."
+
+#~ msgid "No connection to update server. Your installed version is %s."
+#~ msgstr ""
+#~ "Güncelleme sunucusuyla bağlantı kurulamadı. Yüklediğiniz versiyon %s."
+
+#~ msgid "Your version of Tarski (%s) is up to date."
+#~ msgstr "Tarski versiyonunuz (%s) güncel."
+
+#~ msgid ""
+#~ "Version %1$s of the Tarski theme %2$s. Your installed version is %3$s."
+#~ msgstr ""
+#~ "Tarski tema'nın %1$s %2$s. Şu anda %3$s nolu versiyonu kullanıyorsunuz."
+
+#~ msgid "is now available"
+#~ msgstr "nolu yeni versiyonu yayınlandı"
+
+#~ msgid ""
+#~ "You appear to be running a development version of Tarski (%1$s). Please "
+#~ "ensure you %2$s."
+#~ msgstr ""
+#~ "Tarski&#8127;nin geliştirici versiyonunu kullanmaktasınız (%1$s). Lütfen "
+#~ "%2$s emin olun."
+
+#~ msgid "stay updated"
+#~ msgstr "güncel kal"
+
+#~ msgid "Pages selected here will display in your navbar."
+#~ msgstr "Burada seçilen sayfalar menüde gösterilecek."
+
+#~ msgid ""
+#~ "To change the order in which they appear, edit the &#8216;Page "
+#~ "Order&#8217; value on each page."
+#~ msgstr ""
+#~ "Gösterim sırasını değiştirmek için, her sayfanın &#8216;Sayfa "
+#~ "Sıralaması&#8217; değerini değiştirmelisiniz. (Bu ayarları  &#8216;<a "
+#~ "href=\"./edit.php?post_type=page\">Sayfalar</a>&#8217; bölümünden "
+#~ "yapabilirsiniz.)"
+
+#~ msgid "Paginate index pages"
+#~ msgstr "Sayfalanmış index sayfaları"
+
+#~ msgid "required"
+#~ msgstr "gerekli"
+
+#~ msgid "Dashboard &rarr;"
+#~ msgstr "Dashboard &rarr;"
+
+#~ msgid "View your dashboard"
+#~ msgstr "Dashboard'u göster"
+
+#~ msgid ""
+#~ "An elegant, flexible theme developed by <a href=\"http://extralogical.net/"
+#~ "\">Ben Eastaugh</a> and <a href=\"http://ceejayoz.com/\">Chris Sternal-"
+#~ "Johnson</a>."
+#~ msgstr ""
+#~ "Seçkin ve esnek bir tema <a href=\"http://extralogical.net/\">Ben "
+#~ "Eastaugh</a> ve <a href=\"http://ceejayoz.com/\">Chris Sternal-Johnson</"
+#~ "a> tarafından geliştirildi."
+
+#~ msgid "Benedict Eastaugh and Chris Sternal-Johnson"
+#~ msgstr "Benedict Eastaugh ve Chris Sternal-Johnson"
+
+#~ msgid "http://tarskitheme.com/about/"
+#~ msgstr "http://tarskitheme.com/about/"
+
+#~ msgid " comments"
+#~ msgstr " yorum"
+
+#~ msgid "Comments closed"
+#~ msgstr "Yoruma kapalı"
+
+#~ msgid ""
+#~ "User sidebars are now deprecated; please use a child theme or sidebar "
+#~ "widgets."
+#~ msgstr ""
+#~ "Kullanıcı menüleri artık kullanılmıyor; lütfen alt tema veya widget'ları "
+#~ "kullanın."
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr "Bu ileti şifre korumalı. Yorumları okumak için şifre giriniz."
+
+#~ msgid "Commments feed for %s"
+#~ msgstr "%s yorumları için RSS"
+
+#~ msgid "Category feed for %s"
+#~ msgstr "%s kategorisi için RSS"
+
+#~ msgid "Tag feed for %s"
+#~ msgstr "%s etiketi için RSS"
+
+#~ msgid "Articles feed for %s"
+#~ msgstr "%s iletileri için RSS"
+
+#~ msgid "Daily archive feed for %s"
+#~ msgstr "%s günlük arşivi için RSS"
+
+#~ msgid "Monthly archive feed for %s"
+#~ msgstr "%s aylık arşivi için RSS"
+
+#~ msgid "Yearly archive feed for %s"
+#~ msgstr "%s yıllık arşivi için RSS"
+
+#~ msgid "Search feed for %s"
+#~ msgstr "%s araması için RSS"
+
+#~ msgid "Search comments feed for %s"
+#~ msgstr "%s arama yorumları için RSS"
+
+#~ msgid "%s feed"
+#~ msgstr "%s RSS"
+
+#~ msgid "Site Admin"
+#~ msgstr "Site Yöneticisi"
+
+#~ msgid " in "
+#~ msgstr " @"
+
+#~ msgid "Edit the footer content area"
+#~ msgstr "Sayfa altı içerik alanını düzenleyin"
+
+#~ msgid "Sorry"
+#~ msgstr "Üzgünüm"
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid "Tarski is set to notify you when an update is available."
+#~ msgstr ""
+#~ "Tarski, güncelleme olduğunda sizi bilgilendirecek şekilde ayarlandı."
+
+#~ msgid "Tarski can be set to notify you when updates are available."
+#~ msgstr ""
+#~ "Tarski, güncelleme olduğunda sizi bilgilendirecek şekilde ayarlanabilir."
+
+#~ msgid "There are no pages to select navbar items from."
+#~ msgstr "Menüde göstermek için hiç sayfa seçmediniz."
+
+#~ msgid "Sidebar"
+#~ msgstr "Yan Menü"
+
+#~ msgid "Your tagline is currently "
+#~ msgstr "Şu anda site sloganınız "
+
+#~ msgid "blank"
+#~ msgstr "boş"
+
+#~ msgid " and won&#8217;t be displayed."
+#~ msgstr " ve gösterilmeyecek."
+
+#~ msgid "Paginate index pages (such as the front page or monthly archives)"
+#~ msgstr ""
+#~ "Index için sayfalama özelliğini kullan ( Ana Sayfa ve Aylık Arşiv "
+#~ "sayfaları )"
+
+#~ msgid "Switch the column positions (left becomes right, and vice versa)"
+#~ msgstr ""
+#~ "Yan Menü&#8217;nün yerini değiştir (sağda ise sola veya solda ise sağ "
+#~ "tarafa)"
+
+#~ msgid " at "
+#~ msgstr " @"
+
+#~ msgid " from"
+#~ msgstr " @"
+
+#~ msgid "You must be "
+#~ msgstr "Yorum yazabilmek için "
+
+#~ msgid "You are logged in as "
+#~ msgstr "Giriş yapılan kullanıcı hesabı : "
+
+#~ msgid "Log out of this account"
+#~ msgstr "Bu oturumu kapat."
+
+#~ msgid "Logout &raquo;"
+#~ msgstr "Oturumu kapat &raquo;"
+
+#~ msgid "(required, not displayed)"
+#~ msgstr "(gerekli, gösterilmeyecek)"
